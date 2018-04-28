@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/spetsnaz_reborn/admin_ct/ct_urban_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/player/spetsnaz_reborn/admin_ct/ct_urban_glass_spec"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}

@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\Insurgency 2\M4A1\lense_rt"
+	$model 1
+
+	"Proxies"
+	{
+		"Scope"
+		{
+		}
+	}
+}

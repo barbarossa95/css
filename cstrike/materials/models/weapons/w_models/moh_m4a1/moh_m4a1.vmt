@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/moh_m4a1/moh_m4a1"
+	"$bumpmap" "Models\weapons/v_models/moh_m4a1/moh_m4a1_normal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapsaturation" .5
+	"$model" 1
+                "$phongexponenttexture" "Models\weapons/v_models/moh_m4a1/moh_m4a1_spec"
+	"$phong" 		"1"
+	"$phongexponent" 	"100"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[1 6 12]"
+}

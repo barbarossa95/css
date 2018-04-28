@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/rif_sg552/body"
+	"$bumpmap" "models/weapons/v_models/rif_sg552/body_normal"
+	"$envmap" "env_cubemap"
+                "$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+}
+

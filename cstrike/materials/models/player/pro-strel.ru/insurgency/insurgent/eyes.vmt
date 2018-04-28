@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+$basetexture "models\player\pro-strel.ru\insurgency\insurgent\eyes"
+$AmbientOcclTexture  "models\player\pro-strel.ru\insurgency\insurgent\eyes_ao"
+$AmbientOcclColor "[.4 .3 .27]"
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+}

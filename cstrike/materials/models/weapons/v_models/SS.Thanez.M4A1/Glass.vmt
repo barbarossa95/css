@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"models\weapons\v_models\SS.Thanez.M4A1\Glass"
+	"$basetexture2"	"models\weapons\v_models\SS.Thanez.M4A1\Noise"
+	"$additive" "1"
+	"$model" "1"	
+}

@@ -1,0 +1,29 @@
+"Weapon_xm1014.ShellIn"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/xm1014/warshottie_insert.wav"
+}
+
+"Weapon_xm1014.Pump"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/xm1014/warshottie_pump.wav"
+}
+
+"Weapon_xm1014.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/xm1014/warshottie_draw.wav"
+}

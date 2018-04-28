@@ -1,0 +1,6 @@
+"UnlitGeneric"
+
+{
+	"$basetexture"	"models\weapons\v_models\Insurgency 2\M4A1\elcan_reticule"
+	"$translucent" 	"1"
+}

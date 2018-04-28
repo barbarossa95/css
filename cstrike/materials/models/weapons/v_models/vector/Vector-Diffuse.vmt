@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\vector\Vector-Diffuse"
+	"$bumpmap" "models\weapons\v_models\vector\Vector-normal"
+
+}
+

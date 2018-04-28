@@ -1,0 +1,25 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  "models\weapons\v_models\pist_fiveseven\echo_diffuse"
+	"$bumpmap"     "models\weapons\v_models\pist_fiveseven\echo_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.08 0.08 0.08 ]"
+	"$envmapfresnel"	"1"
+	"$envmapFresnelMinMaxExp"	"[0 5 .4]"
+
+	"$phong"     "1"
+	//"$phongexponent"  "25"
+	"$phongboost"   "4"
+	"$phongfresnelranges"      "[.7 .7 1]"
+	"$phongexponenttexture" 	"models\weapons\v_models\pist_fiveseven\echo_exponent"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"40"
+	"$halflambert" 		"1"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"33"	
+	"$rimlightboost"	"0.5"
+	"$rimmask" 	"1"
+}

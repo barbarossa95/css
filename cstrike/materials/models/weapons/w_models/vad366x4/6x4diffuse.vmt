@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\vad366x4\6x4diffuse"
+	"$bumpmap" "models\weapons\v_models\vad366x4\6x4normals"
+	//"$envmap" "env_cubemap"
+                "$phong" "1"
+                "$phongboost" "1"
+                "$phongfresnelranges" "[1 1 1]"
+	"$phongexponenttexture" "models\weapons\v_models\vad366x4\6x4spec"
+                "$phongalbedotint" "1"
+ 
+                "$phongexponent" "11"
+}

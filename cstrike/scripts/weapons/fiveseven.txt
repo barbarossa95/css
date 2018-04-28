@@ -1,0 +1,107 @@
+"Weapon_SW.clipin"
+{
+	"channel"			"CHAN_ITEM"
+	"volume"			"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"				"PITCH_NORM"
+
+	"wave"				"weapons\fiveseven\clipin.wav"
+}
+
+"Weapon_SW.clipout"
+{
+	"channel"			"CHAN_ITEM"
+	"volume"			"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"				"PITCH_NORM"
+
+	"wave"				"weapons\fiveseven\clipout.wav"
+}
+
+"Weapon_SW.sliderelease"
+{
+	"channel"			"CHAN_ITEM"
+	"volume"			"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"				"PITCH_NORM"
+
+	"wave"				"weapons\fiveseven\sliderelease.wav"
+}
+
+"Weapon_57.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/fiveseven/clipout.wav"
+	
+}
+
+"Weapon_57.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/fiveseven/clipin.wav"
+	
+}
+
+"Weapon_57.clipin1"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\fiveseven\clipin.wav"
+	
+}
+
+"Weapon_57.clipin2"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\fiveseven\clipin.wav"
+	
+}
+
+"Weapon_57.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/fiveseven/sliderelease.wav"
+	
+}
+
+"Weapon_57.slideforward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/fiveseven/slideforward.wav"
+	
+}
+
+
+"Weapon_57.slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/fiveseven/slideback.wav"
+	
+}

@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+"$baseTexture" "models\weapons\v_models\nextgen_eqrifle\cgw_lense_diffuse"
+$bumpmap "models\weapons\v_models\nextgen_eqrifle\cgw_lense_normals"	
+$envmap "env_cubemap"
+$normalmapalphaenvmapmask "1"
+"$translucent" "1"
+//$selfillum 1
+//$selfillummask "models\weapons\v_models\nextgen_eqrifle\cgw_lense_selfillum"
+}

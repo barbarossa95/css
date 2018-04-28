@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+
+$basetexture   "models\weapons\v_models\hands\sleeves_diff"
+$bumpmap   "models\weapons\v_models\hands\sleeves_norm"
+
+$phong 1
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+
+}

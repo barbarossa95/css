@@ -1,0 +1,65 @@
+"Weapon_M4a1.sil_off_1"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/sil_off_1.wav" 
+}
+"Weapon_M4a1.sil_off_2"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/sil_off_2.wav" 
+}
+"Weapon_M4a1.m4a1_boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/m4a1_boltpull.wav" 
+}
+"Weapon_M4a1.m4a1_clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/m4a1_clipin.wav" 
+}
+
+"Weapon_M4a1.m4a1_clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/m4a1_clipout.wav" 
+}
+
+"Weapon_M4a1.m4a1_deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/m4a1_deploy.wav" 
+}
+"Weapon_M4a1.m4a1_silencer_on"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/m4a1/m4a1_silencer_on.wav" 
+}

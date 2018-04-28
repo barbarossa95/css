@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\vad36omon/SunGla_Atype_D"
+	"$bumpmap" "models\player\vad36omon/SunGla_Atype_N"
+}

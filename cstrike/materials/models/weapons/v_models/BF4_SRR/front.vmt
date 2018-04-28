@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\v_models\BF4_SRR\front_d"
+	"$bumpmap" "models\weapons\v_models\BF4_SRR\front_n"
+	"$halflambert" "1"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapcontrast" .7
+	"$phong" 1
+	"$phongboost" 6
+	"$phongfresnelranges" "[.2 1 0]"
+	"$phongalbedotint" 1
+
+}

@@ -1,0 +1,10 @@
+"Weapon_Galil.Draw"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/galil/draw.wav"
+}

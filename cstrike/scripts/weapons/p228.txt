@@ -1,0 +1,10 @@
+"Weapon_p228.hammer"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\p228\p228_hammer.wav"
+	
+}

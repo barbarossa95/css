@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/moh_m4a1/moh_eotech"
+	"$bumpmap" "Models\weapons/v_models/moh_m4a1/moh_eotech_normal"
+                "$phong" "1"
+                "$phongboost" "1"
+                "$phongfresnelranges" "[1 8 6]"
+	"$phongexponent" 	"50"
+                "$phongexponenttexture" "Models\weapons/v_models/moh_m4a1/moh_eotech_spec"
+                "$phongalbedotint" "1"
+
+}

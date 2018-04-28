@@ -1,0 +1,12 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\AK\wpn_obves"
+	"$bumpmap" "models\weapons\v_models\AK\wpn_obves_N"
+"$phong" "1"
+"$phongboost" "0.1"
+"$phongexponent" "1"
+"$phongtint" "[1 .85 .85]"
+"$phongfresnelranges" "[.5 .85 30]"
+"$model" "1"
+"$phongalbedotint" "1"
+}

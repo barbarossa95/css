@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\vad36omon/goggle_ld"
+	"$bumpmap" "models\player\vad36omon/goggle_ln"
+	"$translucent" 1
+}

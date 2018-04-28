@@ -1,0 +1,37 @@
+//Bullethead Glock 19
+"Weapon_Glock.Glock_slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\glock\glock_slideback.wav" 
+}
+"Weapon_Glock.Glock_clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\glock\glock_clipin.wav" 
+}
+"Weapon_Glock.Glock_clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\glock\glock_clipout.wav" 
+}
+"Weapon_Glock.Glock_sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\glock\glock_sliderelease.wav" 
+}

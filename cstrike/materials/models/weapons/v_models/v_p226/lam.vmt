@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$baseTexture" "Models\Weapons\V_Models\v_p226\lam"
+    	"$bumpmap" "Models\Weapons\V_Models\v_p226\lam_norm"
+ 	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"1"
+	"$phong" "1"
+	"$phongexponent" "66"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[1 3 8]"
+	"$phongalbedotint" "1"
+
+}

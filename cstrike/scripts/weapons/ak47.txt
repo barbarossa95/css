@@ -1,0 +1,45 @@
+"AK47.Draw"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/AYKAYFORTY/Draw.wav"	
+}
+"AK47.Bolt"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/AYKAYFORTY/Bolt.wav"	
+}
+"AK47.MagTap"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/AYKAYFORTY/MagTap.wav"	
+}
+"AK47.MagOut"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/AYKAYFORTY/Magout.wav"	
+}
+"AK47.MagIn"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/AYKAYFORTY/Magin.wav"	
+}

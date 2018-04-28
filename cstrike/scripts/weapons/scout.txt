@@ -1,0 +1,49 @@
+"Magin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\Tactical M24\Magin.wav"
+}
+
+"Magout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\Tactical M24\Magout.wav"
+}
+
+"Boltback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\Tactical M24\Boltback.wav"
+}
+
+"Boltforward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"		        "weapons\Tactical M24\Boltforward.wav"
+}
+
+"Weapon_Scout.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.6"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons\Tactical M24\Scout_Fire-1.wav"
+}

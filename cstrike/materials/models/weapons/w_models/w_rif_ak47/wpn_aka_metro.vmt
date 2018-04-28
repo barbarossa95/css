@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$baseTexture "models\weapons\v_models\rif_ak47\wpn_aka_metro"
+
+"$bumpmap"	 "models\weapons\v_models\rif_ak47\wpn_ak_74_bump_metro"
+	"$normalmapalphaenvmapmask"	"1"
+	"$model"				"1"
+	"$envmapcontrast"			"1"
+}

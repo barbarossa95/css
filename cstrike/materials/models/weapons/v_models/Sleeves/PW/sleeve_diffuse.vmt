@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Sleeves\PW\sleeve_diffuse"
+	"$bumpmap" "models\weapons\v_models\Sleeves\PW\sleeve_normal"
+
+	"$phong" "1"
+	"$phongboost" "0.60585"
+	"$phongfresnelranges" "[0.185 0.55 0.9015]"
+}
+
+
+

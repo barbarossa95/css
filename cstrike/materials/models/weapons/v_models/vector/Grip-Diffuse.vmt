@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\vector\Grip-Diffuse"
+	"$bumpmap" "models\weapons\v_models\vector\Grip-normal"
+
+}
+

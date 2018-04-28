@@ -1,0 +1,110 @@
+//DEAGLE
+"Weapon_DEagle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.6"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/DEagle/deagle-1.wav"
+	
+}
+
+"Weapon_DEagle.Slide"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_slide.wav"
+	
+}
+
+"Weapon_DEagle.SlideBack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_slidepull.wav"
+	
+}
+
+"Weapon_DEagle.SlideFront"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_slideback.wav"
+	
+}
+
+"Weapon_DEagle.Dryfire"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.4"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_dryfire.wav"
+	
+}
+
+"Weapon_DEagle.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\deagle\de_clipout.wav"
+	
+}
+
+"Weapon_DEagle.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\deagle\de_clipin.wav"
+	
+}
+
+"Weapon_DEagle.Deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_deploy.wav"
+	
+}
+
+"Weapon_DEagle.Cloth"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_cloth.wav"
+	
+}
+
+"Weapon_DEagle.ClothFast"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\deagle\de_cloth_fast.wav"
+	
+}

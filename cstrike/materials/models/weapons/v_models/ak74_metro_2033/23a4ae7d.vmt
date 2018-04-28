@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\ak74_metro_2033\23a4ae7d"
+	"$bumpmap" "models\weapons\v_models\ak74_metro_2033\23a4ae7d_normal"
+	"$nocull"	"1"
+	
+	"$phong" 	"1"
+	"$phongexponent" 	"16"
+	"$phongboost"	 "3"
+	"$phongfresnelranges" "[0.1 0.3 0.05]"
+	
+}

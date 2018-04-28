@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/moh_m4a1/moh_hands"
+	"$bumpmap" "Models\weapons/v_models/moh_m4a1/moh_hands_normal"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" ".2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" ""							
+	"$rimlightboost" "0.1"
+
+}
+                "$phongexponenttexture" "Models\weapons/v_models/moh_m4a1/moh_hands_spec"
+                "$phongalbedotint" "1"
+                "$halflambert" "1"
+
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\1.6 Glock Revitalization Dualies\frame"
+	"$bumpmap" "models\weapons\v_models\1.6 Glock Revitalization Dualies\frame_norm"
+}

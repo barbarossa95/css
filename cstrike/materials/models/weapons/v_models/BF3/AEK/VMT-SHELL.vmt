@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\BF3\AEK\shell_diff"
+	"$halflambert" "1"
+	"$bumpmap" "models\weapons\v_models\BF3\AEK\Shell_nml"
+
+	"$phong" "1"
+	"$phongexponent" 15
+	"$phongboost" ".2"
+	"$phongfresnelranges"	"[ .6 3 9]"
+                "$phongexponenttexture" "models\weapons\v_models\BF3\AEK\Shell_phong"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "50"				
+	"$rimlightboost" "0.02"
+
+}

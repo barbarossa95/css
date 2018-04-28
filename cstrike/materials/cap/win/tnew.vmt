@@ -1,0 +1,10 @@
+"UnlitTwoTexture"
+
+//"Modulate"
+{
+               "$baseTexture"  "cap/win/Tnew"
+                "$Texture2" "cap/win/Tnew"
+	"$translucent" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+}

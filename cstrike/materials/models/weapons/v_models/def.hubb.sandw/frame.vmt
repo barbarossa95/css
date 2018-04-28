@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\def.hubb.sandw\frame"
+	"$bumpmap" 	"models\weapons\v_models\def.hubb.sandw\frame_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponent" "54"
+	"$phongboost" "2"
+	"$phongfresnelranges"	"[.5 1.45 1.45]"
+	"$phongalbedotint" "1"
+}

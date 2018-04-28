@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+// 	IF YOU WANNA POOT HERE SOME "nohdraw", BETTER GO AWAY!!!!!
+//
+	"$baseTexture" "models\weapons\v_models\hands\uv"
+	"$bumpmap" "models\weapons\v_models\hands\uv_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.2
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "env_cubemap"
+ 	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+	"$rimlight" "1" 
+  	"$rimlightexponent" "15" 
+   	"$rimlightboost" "1"
+}
